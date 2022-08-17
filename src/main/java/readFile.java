@@ -68,31 +68,6 @@ public class readFile { public static void main(String[] args) {
 
 
 
-
-
-    // String -> LocalDateTime
- //   LocalDateTime localDateTime = LocalDateTime.parse(str, dtf);
-
-  //  Calendar kal = Calendar.getInstance();
-  //  kal.set(2020,1,18,8,59,20);
-
-    // LocalDateTime -> String
- //   String result = localDateTime.format(dtf);
-
-
-  //  System.out.println(localDateTime);
-
-   // System.out.println(kal.getTime());
- /*
-    System.out.println(localDateTime.getYear());
-    System.out.println(localDateTime.getMonthValue());
-    System.out.println(localDateTime.getDayOfMonth());
-    System.out.println(localDateTime.getHour());
-    System.out.println(localDateTime.getMinute());
-    System.out.println(localDateTime.getSecond());
-    System.out.println(kal.getTimeInMillis());
-*/
-
         }
      }
 
